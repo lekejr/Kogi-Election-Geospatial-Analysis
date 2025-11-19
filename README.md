@@ -5,7 +5,7 @@ This report combines **GIS neighbourhood analysis** and **Z-score statistical ou
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 1. [Introduction](#1-introduction)  
 2. [Data Preparation](#2-data-preparation)  
    - [2.1 Dataset Collection](#21-dataset-collection)  
@@ -114,10 +114,10 @@ Although DBSCAN/HDBSCAN detect spatial clusters, they:
 - Are less suitable for election integrity reporting  
 
 **Z-score was chosen because it is:**  
-✔ Transparent  
-✔ Numerically interpretable  
-✔ Consistent across all political parties  
-✔ Easy to audit and explain to stakeholders  
+- Transparent  
+- Numerically interpretable  
+- Consistent across all political parties  
+- Easy to audit and explain to stakeholders  
 
 ---
 
@@ -244,7 +244,7 @@ These patterns may reflect inconsistencies in reporting, demographic shifts, or 
 
 This project successfully applied **Z-score analysis** and **spatial neighbourhood modelling** to detect potential voting irregularities across Kogi State.
 
-### ✔ Key Takeaways
+###  Key Takeaways
 - Identifies polling units warranting deeper investigation  
 - Provides transparent, statistic-driven evidence  
 - More interpretable than clustering-based alternatives  
